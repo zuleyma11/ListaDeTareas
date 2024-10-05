@@ -8,6 +8,8 @@
               
               app.js
               
+  -Para descargar los 3 archivos de clic sobre el nombre de cada archivo, y en el esquina superior derecha hay un icono de descargar, de clic ahi para descargar, asi con los 3 archivos
+              
 -Una vez descargado los 3 archivos, vaya a su historial de descargas y habra el archivo llamado index.html
 
 -Con eso se va a abrir la pagina
@@ -20,4 +22,4 @@
 
 -Para eliminar una tarea, solo debe dar Clic en el boton "Eliminar" y se eliminara la tarea
 
--Si da clic en el boton "Agregar" sin antes haber escrito el nombre de una tarea, le mandara un aviso de que debe escribir una tarea primero.
+-Si da clic en el boton "Agregar" sin antes haber escrito el nombre de una tarea, le mandara un aviso de que debe escribir una tarea.
