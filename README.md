@@ -14,7 +14,7 @@
 
 *Ya puede usar la pagina:
 
--Para agregar una tarea, debe escribir el nombre de la tarea y presionar el boton "Agregar", abajo se veran las tareas agregadas
+-Para agregar una tarea, debe escribir el nombre de la tarea y presionar el boton "Agregar". Abajo se veran las tareas agregadas
 
 -Para tachar una tarea hecha, solo debe dar Clic en el cuadrito a la izquierda de la tarea 
 
