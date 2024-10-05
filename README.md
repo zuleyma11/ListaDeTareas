@@ -8,7 +8,7 @@
               
               app.js
               
-  -Para descargar los 3 archivos de clic sobre el nombre de cada archivo, y en el esquina superior derecha hay un icono de descargar, de clic ahi para descargar, asi con los 3 archivos
+  -Para descargar los 3 archivos de clic sobre el nombre de cada archivo, y en la esquina superior derecha hay un icono de descargar, de clic ahi para descargar, asi con los 3 archivos
               
 -Una vez descargado los 3 archivos, vaya a su historial de descargas y habra el archivo llamado index.html
 
